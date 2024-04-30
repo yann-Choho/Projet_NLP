@@ -1,0 +1,10 @@
+subject_line,groundtruth,prediction,sex
+421b3e1f-ff91-4871-a8de-3af62c58e3bc,surname: Daniel firstname: Claude occupation: journalier link: chef age: 33 ,nom: Demil prénom: Claude date_naissance: 33 lieux_naissance: Yonne relation: chef ,homme
+8339da37-3493-4684-a9fd-090411f33d01,surname: Gorbinet firstname: Jeanne occupation: idem link: chef age: 66 ,nom: Gorbinet prénom: Jeanne date_naissance: 66 lieux_naissance: id relation: id ,femme
+e1e6fb82-6417-4dcf-8eaa-7d5a5e9f6551,surname: Roumeau firstname: Claude occupation: cultivateur link: chef age: 30 ans ,nom: Roumeau prénom: Vaude date_naissance: 1804 lieux_naissance: Aulpares relation: Chef ,homme
+e6927138-689e-4d70-89c2-cf86f7171fd1,surname: Chardon firstname: Marie occupation: idem link: chef age: 84 ans ,"nom: Chardon prénom: Marie date_naissance: 84 lieux_naissance: "" relation: D ",femme
+5b244d56-e1da-4b57-934a-0a1234f34709,surname: Grillé firstname: Emile occupation: idem link: idem employer: idem age: 2 ,"nom: d prénom: Emile date_naissance: 2 lieux_naissance: d relation: "" profession: "" ",femme
+623f7836-8a46-4078-914e-f3cb9bb51c6e,surname: Martin firstname: Marie occupation: idem link: idem age: 45 ,nom: Martin prénom: Marie date_naissance: 47 lieux_naissance: P id état_civil: id profession: id ,femme
+91b1d765-2195-462d-a85b-72233327ff4d,surname: Pénot firstname: Claude occupation: s.p link: enfant age: 13 ,nom: Pirot prénom: Claude date_naissance: 1303 lieux_naissance: id relation: enfant ,homme
+a17f5fb3-c879-4a9a-a063-e3a43f4f4a3c,surname: Coq firstname: Antonie occupation: idem link: idem employer: idem age: 16 ,nom: d prénom: Entonie date_naissance: 16 lieux_naissance: d relation: f ,femme
+e925d46e-1ea7-4537-986e-0fe062d64fa2,surname: Clayeux firstname: Claude occupation: idem link: idem employer: idem age: 13 ,nom: Clayeux prénom: Claude date_naissance: 13 lieux_naissance: P relation: a ,homme

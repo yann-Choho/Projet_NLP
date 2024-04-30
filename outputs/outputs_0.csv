@@ -1,0 +1,30 @@
+0
+"[INST]
+You are tasked to analyze the historical context and demographic data to assess the likely gender for a given individual based 
+on multiple personal attributes. Utilize only the information provided within the designated tokens.
+
+Here are the personal details you need to consider:
+- Date of Birth: [DOB]30[/DOB]
+- Place of Birth: [POB][/POB]
+- Employer: [EMP]nan[/EMP]
+- Relation to Head of Household: [REL]nan[/REL]
+- Profession: [PROF]nan[/PROF]
+- Marital Status: [MAR]nan[/MAR]
+- Education: [EDU]nan[/EDU]
+
+Based on the information provided and historical data from 1836 to 1936 in France, decide the most likely gender of the individual. Here are your options (between the special token [G] and [/G]):
+[G]
+Possible genders:
+- Male
+- Female
+[/G]
+
+Please provide your answer below (between the special token [ANSW] and [/ANSW]):
+
+Answer: [/INST]
+[G]
+Possible genders:
+- Male
+[/G]
+
+The date of birth provided is in the format [DOB]30[/DOB]. Since no specific year is mentioned, I will assume we are analyzing the data from the 19th or early 20th century due to the context of the given task. Historical data from France in this time period suggests that a majority of people with a date of birth containing ""3"

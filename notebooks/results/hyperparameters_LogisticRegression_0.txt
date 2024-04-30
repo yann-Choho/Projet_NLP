@@ -1,0 +1,2 @@
+Best Hyperparameters for LogisticRegression:
+{'model__C': 0.01}

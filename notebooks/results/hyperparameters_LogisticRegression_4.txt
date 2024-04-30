@@ -1,0 +1,2 @@
+Optimal Hyperparameters for LogisticRegression:
+{'model__C': 166.81005372000558, 'model__solver': 'lbfgs'}
